@@ -11,6 +11,7 @@
 - **note** that the default columns ```Created```, ```Modified``` **as well as** ```Version``` are supported in calculated columns.
 
 <h6 id="cat"></h6>
+
 ## All Formulas - by category 
 
 [**Conditional formulas**](#conditional) | [**Date and time formulas**](#datetime) | [**Mathematical formulas**](#math) | [**Text formulas**](#text)
@@ -23,6 +24,7 @@
 |<h4 id="text">Text</h4>|      |   |
 
 <h6 id="alpha"></h6>
+
 ## All Formulas - alphabetical 
 
 [**A**](#A) | [**C**](#C) | [**D**](#D) | [**E**](#E) | [**F**](#F) | [**H**](#H) | [**I**](#I) | [**L**](#L) | [**M**](#M) | [**N**](#N) | [**O**](#O) | [**P**](#P) | [**R**](#R) | [**S**](#S) | [**T**](#T) | [**U**](#U) | [**W**](#W) | [**Y**](#Y)
