@@ -1,9 +1,15 @@
 <h6 id="top"></h6>
 
 # Sharepoint Calculated Field Formulas 
+## Choose section
+- [supported](#supported)
+- [browse by category](#cat)
+- [browse alphabetically](#alpha)
+- [examples](#examples)
 
+<h6 id="supported"></h6>
 
-### NOT Supported columns:
+## NOT Supported columns:
 - ```Created by```
 - ```Modified by```
 - ```ID```
@@ -80,6 +86,7 @@
 [back to categories](#cat)
 [back to alphabetical index](#alpha)
 
+<h6 id="examples"></h6>
 
 ## Example - TBD list of formulas and examples
 - status new / revised
