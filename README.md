@@ -11,11 +11,13 @@
 ## All Formulas - by category
 ## All Formulas - alphabetical
 
+<h6 id="top"></h6>
+
 [**A**](#A) | [**C**](#C) | [**D**](#D) | [**E**](#E) | [**F**](#F) | [**H**](#H) | [**I**](#I) | [**L**](#L) | [**M**](#M) | [**N**](#N) | [**O**](#O) | [**P**](#P) | [**R**](#R) | [**S**](#S) | [**T**](#T) | [**U**](#U) | [**W**](#W) | [**Y**](#Y)
 
 
 |           Index | Formula      |                               Description |
-|-----------------|--------------|-------------------------------------------|
+|:---------------:|--------------|-------------------------------------------|
 |<h4 id="A">A</h4>| ABS()        | Absolute. Remove the negative if present. |
 |                 | AND()        |  Logical And. Return true if both clauses return true.|
 |                 | AVERAGE()    | Average value. The average of all the provided parameters. |
@@ -59,7 +61,7 @@
 |<h4 id="U">U</h4> | UPPER()     | Upper case string. Converts a string to all upper case. |
 |<h4 id="W">W</h4> | WEEKDAY()   | Day of Week. Returns the day of week for a date time parameter. |
 |<h4 id="Y">Y</h4> | YEAR()      | Year. Returns the year for a given date time parameter
-
+[back to top](#top)
 ## Example - TBD list of formulas and examples
 - status new / revised
 - unique id
