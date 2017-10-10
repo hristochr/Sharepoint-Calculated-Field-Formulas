@@ -9,7 +9,7 @@
 
 <h6 id="supported"></h6>
 
-## NOT Supported columns:
+## Not Supported Columns:
 - ```Created by```
 - ```Modified by```
 - ```ID```
