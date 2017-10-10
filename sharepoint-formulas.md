@@ -1,4 +1,5 @@
-# Sharepoint Calculated Field Formulas <h6 id="top"></h6>
+<h6 id="top"></h6>
+# Sharepoint Calculated Field Formulas 
 
 
 ### NOT Supported columns:
@@ -8,8 +9,8 @@
 - everything else should work as an input to a calculated column, of course depending on its type. 
 - **note** that the default columns ```Created```, ```Modified``` **as well as** ```Version``` are supported in calculated columns.
 
-
-## All Formulas - by category <h6 id="cat"></h6>
+<h6 id="cat"></h6>
+## All Formulas - by category 
 
 [**Conditional formulas**](#conditional) | [**Date and time formulas**](#datetime) | [**Mathematical formulas**](#math) | [**Text formulas**](#text)
 
@@ -20,8 +21,8 @@
 |<h4 id="math">MathA</h4>|      |   |
 |<h4 id="text">Text</h4>|      |   |
 
-
-## All Formulas - alphabetical <h6 id="alpha"></h6>
+<h6 id="alpha"></h6>
+## All Formulas - alphabetical 
 
 [**A**](#A) | [**C**](#C) | [**D**](#D) | [**E**](#E) | [**F**](#F) | [**H**](#H) | [**I**](#I) | [**L**](#L) | [**M**](#M) | [**N**](#N) | [**O**](#O) | [**P**](#P) | [**R**](#R) | [**S**](#S) | [**T**](#T) | [**U**](#U) | [**W**](#W) | [**Y**](#Y)
 
