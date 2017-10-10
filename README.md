@@ -11,7 +11,7 @@
 ## All Formulas - by category
 ## All Formulas - alphabetical
 
-[**A**](A) | [**B**](B) | [**C**](C)
+[**A**](#A) | [**B**](#B) | [**C**](#C)
 
 
 | Index | Formula| Description |
