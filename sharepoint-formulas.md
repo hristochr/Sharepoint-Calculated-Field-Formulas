@@ -1,6 +1,5 @@
-# Sharepoint Calculated Field Formulas
+# Sharepoint Calculated Field Formulas <h6 id="top"></h6>
 
-<h6 id="top"></h6>
 
 ### NOT Supported columns:
 - ```Created by```
@@ -10,13 +9,19 @@
 - **note** that the default columns ```Created```, ```Modified``` **as well as** ```Version``` are supported in calculated columns.
 
 
-## All Formulas - by category
+## All Formulas - by category <h6 id="cat"></h6>
 
-<h6 id="cat"></h6>
+[**Conditional formulas**](#conditional) | [**Date and time formulas**](#datetime) | [**Mathematical formulas**](#math) | [**Text formulas**](#text)
 
-## All Formulas - alphabetical
+| Category | Formula | Example |
+|:----------:|----------|----------|
+|<h4 id="conditional">Conditional</h4>|      |   |
+|<h4 id="datetime">Date / time </h4>|      |   |
+|<h4 id="math">MathA</h4>|      |   |
+|<h4 id="text">Text</h4>|      |   |
 
-<h6 id="alpha"></h6>
+
+## All Formulas - alphabetical <h6 id="alpha"></h6>
 
 [**A**](#A) | [**C**](#C) | [**D**](#D) | [**E**](#E) | [**F**](#F) | [**H**](#H) | [**I**](#I) | [**L**](#L) | [**M**](#M) | [**N**](#N) | [**O**](#O) | [**P**](#P) | [**R**](#R) | [**S**](#S) | [**T**](#T) | [**U**](#U) | [**W**](#W) | [**Y**](#Y)
 
