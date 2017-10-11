@@ -22,12 +22,27 @@
 
 [**Conditional formulas**](#conditional) | [**Date and time formulas**](#datetime) | [**Mathematical formulas**](#math) | [**Text formulas**](#text)
 
+
+<h4 id="conditional"></h4>
+
+### Conditional formulas
+
+<h4 id="datetime"></h4>
+
+### Date and time formulas
+
+<h4 id="math"></h4>
+
+### Mathematical formulas
+
+<h4 id="text"></h4>
+
+### Text formulas
+
 | Category | Formula | Example |
 |:----------:|----------|----------|
-|<h4 id="conditional">Conditional</h4>|      |   |
-|<h4 id="datetime">Date / time </h4>|      |   |
-|<h4 id="math">MathA</h4>|      |   |
-|<h4 id="text">Text</h4>|      |   |
+||      |   |
+
 
 <h6 id="alpha"></h6>
 
@@ -39,7 +54,7 @@
 |           Index | Formula      |                               Description |
 |:---------------:|--------------|-------------------------------------------|
 |<h4 id="A">A</h4>| ABS()        | Absolute. Remove the negative if present. |
-|                 | AND()        |  Logical And. Return true if both clauses return true.|
+|                 | AND()        | Logical And. Returns TRUE if all clauses are true, or FALSE if one clause is false.|
 |                 | AVERAGE()    | Average value. The average of all the provided parameters. |
 |<h4 id="C">C</h4>| CONCATENATE()| String concatenation. Concatenates every parameter provided and returns it as a single string. |
 |                 | COUNT()      | Count the values. Returns the number of values provided. |
