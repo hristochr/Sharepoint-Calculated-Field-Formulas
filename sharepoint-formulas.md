@@ -55,8 +55,11 @@
 |:---------------:|--------------|-------------------------------------------|
 |<h4 id="A">A</h4>| ABS()        | Absolute. Remove the negative if present. |
 |                 | AND()        | Logical And. Returns TRUE if all clauses are true, or FALSE if one clause is false.|
-|                 | AVERAGE()    | Average value. The average of all the provided parameters. |
-|<h4 id="C">C</h4>| CONCATENATE()| String concatenation. Concatenates every parameter provided and returns it as a single string. |
+|                 | AVERAGE()    | Returns the average of all provided values. |
+|<h4 id="C">C</h4>| CHAR()       | Returnts the character, specified by a number from 1 to 255. [ASCII table reference]              (http://www.asciitable.com/) |
+|                 | CHOOSE()     | Select a values based on an index. ```=CHOOSE(index, val1, val2)``` If index is 1, CHOOSE will return  val1|
+|                 | CODE()       | Display the numeric code for a character. |
+|                 | CONCATENATE()| String concatenation. Concatenates every parameter provided and returns it as a single string. |
 |                 | COUNT()      | Count the values. Returns the number of values provided. |
 |                 | COUNTA()     | Count the non-null values. Returns the number of non-null values returned.|
 |<h4 id="D">D</h4>| DATE()       | Create a date. Given a month, day, and year return a date.|
@@ -64,7 +67,8 @@
 |                 | DAY()        | Day of month. Given a date return the day of month. |
 |<h4 id="E">E</h4>| EVEN()       | Round up to the nearest even number. |
 |                 | EXACT()      | Exact comparison. Given two values return true if they are exactly the same. |
-|<h4 id="F">F</h4>| FIND()       | Find a string in another. Returns the position of the first string in the second or null if not found |
+|<h4 id="F">F</h4>| FACT()       | Returns the factorial of a number. |
+|                 | FIND()       |Find a string in another. Returns the position of the first string in the second or null if not found|
 |<h4 id="H">H</h4>| HOUR()       | Returns the hour of day. Given a date time column returns the hour of day |
 |<h4 id="I">I</h4>| IF()         | Return results based on a comparison. If the first parameter is true return the second parameter otherwise return the third parameter
 |                 | INT()        | Returns an integer. Given a number returns the integer portion.|
