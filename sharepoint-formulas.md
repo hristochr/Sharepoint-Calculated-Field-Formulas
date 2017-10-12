@@ -108,5 +108,6 @@
 <h6 id="examples"></h6>
 
 ## Example - TBD list of formulas and examples
-- status new / revised
-- unique id
+- Status new / revised for a list record: ```=IF([Modified] > [Created], "Revised", "New")```
+- Number of revisions: ```=INT([Version]) - 1 ```
+- Filter a view so that it displays only entries that the current user has created: ```Modified by = [Me]```
