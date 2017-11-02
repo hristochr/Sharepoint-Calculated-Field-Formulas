@@ -12,9 +12,8 @@
 ## Not Supported Columns:
 - ```Created by```
 - ```Modified by```
-- ```ID```
 - everything else should work as an input to a calculated column, of course depending on its type. 
-- **note** that the default columns ```Created```, ```Modified``` **as well as** ```Version``` are supported in calculated columns.
+- **note** that the default columns ```ID```, ```Created```, ```Modified``` **as well as** ```Version``` are supported in calculated columns.
 
 <h6 id="cat"></h6>
 
